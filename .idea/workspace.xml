@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7865cfdd-fd1c-4e76-a60f-b1dc6bb49434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/userprofile/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/userprofile/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/userprofile/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/userprofile/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userprofile/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/userprofile/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userprofile/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/userprofile/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userprofile/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/userprofile/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userprofile/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/userprofile/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="7865cfdd-fd1c-4e76-a60f-b1dc6bb49434" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,18 +302,17 @@
       <workItem from="1586873133554" duration="889000" />
       <workItem from="1586959378912" duration="2950000" />
       <workItem from="1587212202808" duration="2832000" />
-      <workItem from="1587388283001" duration="4937000" />
+      <workItem from="1587388283001" duration="5274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44350000" />
+    <option name="totallyTimeSpent" value="44687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="872" y="0" width="1400" height="988" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19552238" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19552238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -341,7 +326,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33489463" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33489463" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
