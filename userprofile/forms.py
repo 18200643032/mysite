@@ -3,7 +3,7 @@ from django import forms
 
 #引入User模型
 from django.contrib.auth.models import User
-
+from .models import Profile
 
 
 #登录表单，继承forms.Form类
@@ -30,3 +30,9 @@ class UserRegisterForm(forms.ModelForm):
 
 
 
+
+
+class ProfileForm(forms.ModelForm):
+    class Meta:
+        model = Profile
+        fields = ("phone","avatar","bio")

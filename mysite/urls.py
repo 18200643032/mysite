@@ -20,5 +20,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('article/', include('article.urls',namespace="article")),
     #用户管理
-    path("userrofile/",include("userprofile.urls",namespace="userprofile"))
+    path("userrofile/",include("userprofile.urls",namespace="userprofile")),
+    #权限
+    path("password-reset",include("password_reset.urls"))
 ]
